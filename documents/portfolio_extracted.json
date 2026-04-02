@@ -1,0 +1,137 @@
+{
+  "source_pdf": "포트폴리오.pdf",
+  "page_count": 26,
+  "text": "[Page 1]\n2024 - 2025P0RTF0LI0\nCONTACT\njbm689772@gmail.com\n0103615 9054\n\n[Page 2]\nGRADUATION\n叫/suik Jeon\nCERTIFICATION\n2017.02\n1997.09.13\nTel.010-3615-9054\nadsp\nEmail. jbm689772@gmail.com\nsqld \nAWARDS\nCAREER\nEDUCATION\n2023\n2024.06～2025.03(至)大智人／三号全三别09臣\n\n[Page 3]\nRKGPS\nUWB\nMAVLink 哭 FC 刘O 至引\nROS吴哭\nUDP/TCP →\n\n[Page 4]\nPROJECT.1\n\n[Page 5]\nIC HC-\nJHIIO\nUWB卧XY月\nOs : Ubuntu 20.04\nUWB \n三豆至：mavlink,udp,uart\nMAVLink UART\n-LH GPS  pymavlink 三\n三/人l:pymavlink,MavProxy，Wi-Fi Mesh(5GHz)\n叫大l:UWB,RTK GPS, Motion Capture\n-GCS  DB 田\n: Blender, Mission Planner\n- 5G Wifi Mesh  \nHardware : CUAV Pixhawk V5 ( Flight Controller)\nRaspberry Pi 5(UART哭pymavlink)\n:github, what's app\n\n[Page 6]\nA2\nA5\nA1\n()\nAO\nA3\n120Hz\n0000\n- FC(Flight Controller)→Rasberry Pi uart\n\n[Page 7]\nSensing Layer\nSensing Layer\nUWB\nUWB\nUWB\nUWB\nYZ UWB \nAnchor\nAnchor\nAnchor\nAnchor\nUSB:\nHardware layer\nHardware Layer\n 是  Sd A -\nMavLink Protocol\nUART\nCommunication Layer\nID2\nID1\nID3\nID4\nID5\nID6\nCommunication Layer\n IP UDP \nUWB\nJWE\nUWB\nMavLink Protocol\n5GHz Mesh \nUDP\nWi-Fi Mesh\nGCS Layer\nGcs Layer\n·三号 IDU刘OI\nUDP\nGcs Web\nServer\nMysQL\n\n[Page 8]\n&(1,2)\nProblem\nSolution\nO2.4G\n5GHzMesh三α\nMAVLink IH\nMAVLink5GHz HOI Mesh \n 2\nfake GPS\nFCOIGPSIOIE1OHz\npymavlink fake GPSOIE 100Hz ,\noiter\n\n[Page 9]\n&(3,4)\nProblem\nSolution\nmavproxyUDP \nGCSU\nGCS\n 4\nGCS\nmavproxy --0ut=udp:192.168.0.11:14550 --0ut=udp:192.168.0.12:14551\nMission PlannerPco\n\n[Page 10]\nRESULT\nUOP14551-OCTOFOTOR\nWoarrybuwo\nWoarosorybutwodn\nWoorybuweo\nhaveimagoryatthiszoom\nlovolforthsrgon\nlevelforthsrogon\nlevelforthrogon\nhavel\nlevelforthisrogon\nlevol forthisrogon\no.timeSinceArninAir.452\n4m-1\nAulo\nBa17Uv04A57EKFVboCPS3DFit\nException:404 Not Fond\nException:404 NotFound\nException; 404NotFound\nException:404 NotFond\nExcepion: 404 Not Found\nxcoption:404\nNotFound\nAcfons Messages Prefight Gauges\nAtiude (m)\nGroundSpeed (m/s)\nWarrybutwodo\nWuw\nWrrybuw\nWybwe\nWarybuwe\nWearesory,butwedo\nyatthiszoom\nlevelforthsregon\nlevelforthisregon\nlevelforthsregon\nlevelforthis\nhaveima\n1.01\n0.00\nlevel forthisregen\nException: 404 Not Found\nException:404Mrround\nExceplion: 404 Not Found\nException: 404 NotFound\nExcoption:404 NotFound\nMag Field\nExceplion: 404 Not Found\nYaw (deg)\nWrybuw\nWw\nWyw\n86.79\nWsrrybuwe\n392.20\nhaveimageryat thiszoom\nhaveimageryatthszoom\nhaveimagoryathiszoom\nhave imagery atthiszoom\nlevelfor thisrogon.\nlovel for this rogon.\nlevol forthisrogon\nloevelforthisrogion.\nlevel forthis rogon.\nlevol for this rogon.\nSat Count\nDistToMAV\nException:404 Not Found\nException:404 NotFound\nExcoption;404 Not Found\nExcoption:404 Not Found\nExcoption:404NotFound\nExceplion:404 Not Found\nNon-Gps \nTOBACCO\n\n[Page 11]\n·RTK GPSJIEO豆\n\n[Page 12]\nPROJECT.2\nEYCAIC OWH\n三号吴阜\n三吴人三\n吉品\n\n[Page 13]\nIC HC-\nOs : Raspberry Pi Os\n三/l：Pymavlink，Uart，RTSP，LTE(I人I)\n-Raspberry Pi + UART FC  \n-YOLOv5 →TFLite  \n三至二2H: Python\nRTSPUSB\nI·QI：-YOLOv5,YOLOv5-TFLite( )\n(PixeC\n- Open cv\n：VNCViewer（人 ）\nHardware : - CUAV V5+(Flight Controller)\n- Raspberry Pi 4B\n-HM30 \n-USB Camera（äl 号)，RTSP Camera（号\n: Mission Planner\n\n[Page 14]\n3S-4S\nLAIS\nHM30\nh.（：htts://m.blog.naver.com/jinydoggebi/223118767503)\n\n[Page 15]\n-HM30卧三号暑人即\nOnboard System\n·WayPoint  + O\nFC\nHM30\nRaspberry pi\n(Flight Controller)\nUART\nUART\nAir Unit\n→RC\nLTE\nCamera 2\nCamera 1\nModule\n恒居10 百昆只品 -\nLTE\nRTSP\nGround System\nRTSP印人l（Camera2）\nTarget Detection Monitor( 2)\nReal-time Video Stream Viewer(人)\n[IMS]\nPC2\nPC1\nHM30\n(Vnc Viewer)\nGround unit\n(GCS: Mission planner)\n·Raspberry PiOHYOLO(TFLite)\n30Km video, Telemetry, RC\n\n[Page 16]\n刘&(1,2)\nProblem\nSolution\nUSB\nRTSP\n 2\nYOLOv5→FLite IOIE\n\n[Page 17]\n&(3,4)\nProblem\nSolution\n列 4\nUBECV\n\n[Page 18]\nResult\nImprovement\nGitHub\n2（\n→ 2. setpoint (GPS Data) I \n4.M30\n\n[Page 19]\nPROJECT.3\n（：WEGO）\n\n[Page 20]\nIC HC-\nJHIJIO\nOs : Ubuntu 20.04\nMiddle ware: ROS1 noetic\n豆二:Python\nHardware:- WEGO LIMO（Jetson Nano I l 菩)\n晨 百品 MNWI-\n- IMU l人1, Realsense Camera, LiDAR\n\n[Page 21]\nWeGo\n01\n(WEGO/LIMO)\n\n[Page 22]\nROS\n/camera/rgb/image_raw/compressed)\n• LiDAR + IMU\nDetection System\nscan,/imu)\nVx\n(Line detection)\nLidar + Imu\nLidar + Imu\nar \n·AR\nMission3\nMission4|\nMission6\nMission1\nMission2\nMission5\nVcamera/ar_pose_marker)\nMission System\n·V2X\n(A/B/C\n(/path_)\nControl System\nVelocity\nSteering\n·/Twist 叫人I(linear.)哭(angular.z)OH\n- rostopic name\n\n[Page 23]\n&(1,2)\nProblem\nSolution\n01I01E量 36   5H (Right, Front-\nRight, Front, Front-Left, Left)二至 州是卫, 2,4 可 H\nLiDAR\n\n[Page 24]\n刘&部(3,4)\nProblem\nSolution\nIMU\npre_degree\n\n[Page 25]\nResult\nImprovement\n1.Mission \nGitHub\n→AR\n**6 5*\naoint\nMission 1：\n- Mission 2: \nMission 3:0HⅡ\n-Mission 4:\nMission :AR  )\n\n[Page 26]\n2024 - 2025P0RTF0L10\njbm6897772@gmail.com\n01036159054",
+  "pages": [
+    {
+      "page": 1,
+      "text": "2024 - 2025P0RTF0LI0\nCONTACT\njbm689772@gmail.com\n0103615 9054",
+      "char_count": 61
+    },
+    {
+      "page": 2,
+      "text": "GRADUATION\n叫/suik Jeon\nCERTIFICATION\n2017.02\n1997.09.13\nTel.010-3615-9054\nadsp\nEmail. jbm689772@gmail.com\nsqld \nAWARDS\nCAREER\nEDUCATION\n2023\n2024.06～2025.03(至)大智人／三号全三别09臣",
+      "char_count": 171
+    },
+    {
+      "page": 3,
+      "text": "RKGPS\nUWB\nMAVLink 哭 FC 刘O 至引\nROS吴哭\nUDP/TCP →",
+      "char_count": 44
+    },
+    {
+      "page": 4,
+      "text": "PROJECT.1",
+      "char_count": 9
+    },
+    {
+      "page": 5,
+      "text": "IC HC-\nJHIIO\nUWB卧XY月\nOs : Ubuntu 20.04\nUWB \n三豆至：mavlink,udp,uart\nMAVLink UART\n-LH GPS  pymavlink 三\n三/人l:pymavlink,MavProxy，Wi-Fi Mesh(5GHz)\n叫大l:UWB,RTK GPS, Motion Capture\n-GCS  DB 田\n: Blender, Mission Planner\n- 5G Wifi Mesh  \nHardware : CUAV Pixhawk V5 ( Flight Controller)\nRaspberry Pi 5(UART哭pymavlink)\n:github, what's app",
+      "char_count": 325
+    },
+    {
+      "page": 6,
+      "text": "A2\nA5\nA1\n()\nAO\nA3\n120Hz\n0000\n- FC(Flight Controller)→Rasberry Pi uart",
+      "char_count": 69
+    },
+    {
+      "page": 7,
+      "text": "Sensing Layer\nSensing Layer\nUWB\nUWB\nUWB\nUWB\nYZ UWB \nAnchor\nAnchor\nAnchor\nAnchor\nUSB:\nHardware layer\nHardware Layer\n 是  Sd A -\nMavLink Protocol\nUART\nCommunication Layer\nID2\nID1\nID3\nID4\nID5\nID6\nCommunication Layer\n IP UDP \nUWB\nJWE\nUWB\nMavLink Protocol\n5GHz Mesh \nUDP\nWi-Fi Mesh\nGCS Layer\nGcs Layer\n·三号 IDU刘OI\nUDP\nGcs Web\nServer\nMysQL",
+      "char_count": 331
+    },
+    {
+      "page": 8,
+      "text": "&(1,2)\nProblem\nSolution\nO2.4G\n5GHzMesh三α\nMAVLink IH\nMAVLink5GHz HOI Mesh \n 2\nfake GPS\nFCOIGPSIOIE1OHz\npymavlink fake GPSOIE 100Hz ,\noiter",
+      "char_count": 137
+    },
+    {
+      "page": 9,
+      "text": "&(3,4)\nProblem\nSolution\nmavproxyUDP \nGCSU\nGCS\n 4\nGCS\nmavproxy --0ut=udp:192.168.0.11:14550 --0ut=udp:192.168.0.12:14551\nMission PlannerPco",
+      "char_count": 138
+    },
+    {
+      "page": 10,
+      "text": "RESULT\nUOP14551-OCTOFOTOR\nWoarrybuwo\nWoarosorybutwodn\nWoorybuweo\nhaveimagoryatthiszoom\nlovolforthsrgon\nlevelforthsrogon\nlevelforthrogon\nhavel\nlevelforthisrogon\nlevol forthisrogon\no.timeSinceArninAir.452\n4m-1\nAulo\nBa17Uv04A57EKFVboCPS3DFit\nException:404 Not Fond\nException:404 NotFound\nException; 404NotFound\nException:404 NotFond\nExcepion: 404 Not Found\nxcoption:404\nNotFound\nAcfons Messages Prefight Gauges\nAtiude (m)\nGroundSpeed (m/s)\nWarrybutwodo\nWuw\nWrrybuw\nWybwe\nWarybuwe\nWearesory,butwedo\nyatthiszoom\nlevelforthsregon\nlevelforthisregon\nlevelforthsregon\nlevelforthis\nhaveima\n1.01\n0.00\nlevel forthisregen\nException: 404 Not Found\nException:404Mrround\nExceplion: 404 Not Found\nException: 404 NotFound\nExcoption:404 NotFound\nMag Field\nExceplion: 404 Not Found\nYaw (deg)\nWrybuw\nWw\nWyw\n86.79\nWsrrybuwe\n392.20\nhaveimageryat thiszoom\nhaveimageryatthszoom\nhaveimagoryathiszoom\nhave imagery atthiszoom\nlevelfor thisrogon.\nlovel for this rogon.\nlevol forthisrogon\nloevelforthisrogion.\nlevel forthis rogon.\nlevol for this rogon.\nSat Count\nDistToMAV\nException:404 Not Found\nException:404 NotFound\nExcoption;404 Not Found\nExcoption:404 Not Found\nExcoption:404NotFound\nExceplion:404 Not Found\nNon-Gps \nTOBACCO",
+      "char_count": 1200
+    },
+    {
+      "page": 11,
+      "text": "·RTK GPSJIEO豆",
+      "char_count": 13
+    },
+    {
+      "page": 12,
+      "text": "PROJECT.2\nEYCAIC OWH\n三号吴阜\n三吴人三\n吉品",
+      "char_count": 33
+    },
+    {
+      "page": 13,
+      "text": "IC HC-\nOs : Raspberry Pi Os\n三/l：Pymavlink，Uart，RTSP，LTE(I人I)\n-Raspberry Pi + UART FC  \n-YOLOv5 →TFLite  \n三至二2H: Python\nRTSPUSB\nI·QI：-YOLOv5,YOLOv5-TFLite( )\n(PixeC\n- Open cv\n：VNCViewer（人 ）\nHardware : - CUAV V5+(Flight Controller)\n- Raspberry Pi 4B\n-HM30 \n-USB Camera（äl 号)，RTSP Camera（号\n: Mission Planner",
+      "char_count": 304
+    },
+    {
+      "page": 14,
+      "text": "3S-4S\nLAIS\nHM30\nh.（：htts://m.blog.naver.com/jinydoggebi/223118767503)",
+      "char_count": 69
+    },
+    {
+      "page": 15,
+      "text": "-HM30卧三号暑人即\nOnboard System\n·WayPoint  + O\nFC\nHM30\nRaspberry pi\n(Flight Controller)\nUART\nUART\nAir Unit\n→RC\nLTE\nCamera 2\nCamera 1\nModule\n恒居10 百昆只品 -\nLTE\nRTSP\nGround System\nRTSP印人l（Camera2）\nTarget Detection Monitor( 2)\nReal-time Video Stream Viewer(人)\n[IMS]\nPC2\nPC1\nHM30\n(Vnc Viewer)\nGround unit\n(GCS: Mission planner)\n·Raspberry PiOHYOLO(TFLite)\n30Km video, Telemetry, RC",
+      "char_count": 369
+    },
+    {
+      "page": 16,
+      "text": "刘&(1,2)\nProblem\nSolution\nUSB\nRTSP\n 2\nYOLOv5→FLite IOIE",
+      "char_count": 54
+    },
+    {
+      "page": 17,
+      "text": "&(3,4)\nProblem\nSolution\n列 4\nUBECV",
+      "char_count": 33
+    },
+    {
+      "page": 18,
+      "text": "Result\nImprovement\nGitHub\n2（\n→ 2. setpoint (GPS Data) I \n4.M30",
+      "char_count": 62
+    },
+    {
+      "page": 19,
+      "text": "PROJECT.3\n（：WEGO）",
+      "char_count": 17
+    },
+    {
+      "page": 20,
+      "text": "IC HC-\nJHIJIO\nOs : Ubuntu 20.04\nMiddle ware: ROS1 noetic\n豆二:Python\nHardware:- WEGO LIMO（Jetson Nano I l 菩)\n晨 百品 MNWI-\n- IMU l人1, Realsense Camera, LiDAR",
+      "char_count": 152
+    },
+    {
+      "page": 21,
+      "text": "WeGo\n01\n(WEGO/LIMO)",
+      "char_count": 19
+    },
+    {
+      "page": 22,
+      "text": "ROS\n/camera/rgb/image_raw/compressed)\n• LiDAR + IMU\nDetection System\nscan,/imu)\nVx\n(Line detection)\nLidar + Imu\nLidar + Imu\nar \n·AR\nMission3\nMission4|\nMission6\nMission1\nMission2\nMission5\nVcamera/ar_pose_marker)\nMission System\n·V2X\n(A/B/C\n(/path_)\nControl System\nVelocity\nSteering\n·/Twist 叫人I(linear.)哭(angular.z)OH\n- rostopic name",
+      "char_count": 330
+    },
+    {
+      "page": 23,
+      "text": "&(1,2)\nProblem\nSolution\n01I01E量 36   5H (Right, Front-\nRight, Front, Front-Left, Left)二至 州是卫, 2,4 可 H\nLiDAR",
+      "char_count": 107
+    },
+    {
+      "page": 24,
+      "text": "刘&部(3,4)\nProblem\nSolution\nIMU\npre_degree",
+      "char_count": 40
+    },
+    {
+      "page": 25,
+      "text": "Result\nImprovement\n1.Mission \nGitHub\n→AR\n**6 5*\naoint\nMission 1：\n- Mission 2: \nMission 3:0HⅡ\n-Mission 4:\nMission :AR  )",
+      "char_count": 119
+    },
+    {
+      "page": 26,
+      "text": "2024 - 2025P0RTF0L10\njbm6897772@gmail.com\n01036159054",
+      "char_count": 53
+    }
+  ]
+}

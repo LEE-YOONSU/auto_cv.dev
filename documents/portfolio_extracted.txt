@@ -1,0 +1,378 @@
+[Page 1]
+2024 - 2025P0RTF0LI0
+CONTACT
+jbm689772@gmail.com
+0103615 9054
+
+[Page 2]
+GRADUATION
+叫/suik Jeon
+CERTIFICATION
+2017.02
+1997.09.13
+Tel.010-3615-9054
+adsp
+Email. jbm689772@gmail.com
+sqld 
+AWARDS
+CAREER
+EDUCATION
+2023
+2024.06～2025.03(至)大智人／三号全三别09臣
+
+[Page 3]
+RKGPS
+UWB
+MAVLink 哭 FC 刘O 至引
+ROS吴哭
+UDP/TCP →
+
+[Page 4]
+PROJECT.1
+
+[Page 5]
+IC HC-
+JHIIO
+UWB卧XY月
+Os : Ubuntu 20.04
+UWB 
+三豆至：mavlink,udp,uart
+MAVLink UART
+-LH GPS  pymavlink 三
+三/人l:pymavlink,MavProxy，Wi-Fi Mesh(5GHz)
+叫大l:UWB,RTK GPS, Motion Capture
+-GCS  DB 田
+: Blender, Mission Planner
+- 5G Wifi Mesh  
+Hardware : CUAV Pixhawk V5 ( Flight Controller)
+Raspberry Pi 5(UART哭pymavlink)
+:github, what's app
+
+[Page 6]
+A2
+A5
+A1
+()
+AO
+A3
+120Hz
+0000
+- FC(Flight Controller)→Rasberry Pi uart
+
+[Page 7]
+Sensing Layer
+Sensing Layer
+UWB
+UWB
+UWB
+UWB
+YZ UWB 
+Anchor
+Anchor
+Anchor
+Anchor
+USB:
+Hardware layer
+Hardware Layer
+ 是  Sd A -
+MavLink Protocol
+UART
+Communication Layer
+ID2
+ID1
+ID3
+ID4
+ID5
+ID6
+Communication Layer
+ IP UDP 
+UWB
+JWE
+UWB
+MavLink Protocol
+5GHz Mesh 
+UDP
+Wi-Fi Mesh
+GCS Layer
+Gcs Layer
+·三号 IDU刘OI
+UDP
+Gcs Web
+Server
+MysQL
+
+[Page 8]
+&(1,2)
+Problem
+Solution
+O2.4G
+5GHzMesh三α
+MAVLink IH
+MAVLink5GHz HOI Mesh 
+ 2
+fake GPS
+FCOIGPSIOIE1OHz
+pymavlink fake GPSOIE 100Hz ,
+oiter
+
+[Page 9]
+&(3,4)
+Problem
+Solution
+mavproxyUDP 
+GCSU
+GCS
+ 4
+GCS
+mavproxy --0ut=udp:192.168.0.11:14550 --0ut=udp:192.168.0.12:14551
+Mission PlannerPco
+
+[Page 10]
+RESULT
+UOP14551-OCTOFOTOR
+Woarrybuwo
+Woarosorybutwodn
+Woorybuweo
+haveimagoryatthiszoom
+lovolforthsrgon
+levelforthsrogon
+levelforthrogon
+havel
+levelforthisrogon
+levol forthisrogon
+o.timeSinceArninAir.452
+4m-1
+Aulo
+Ba17Uv04A57EKFVboCPS3DFit
+Exception:404 Not Fond
+Exception:404 NotFound
+Exception; 404NotFound
+Exception:404 NotFond
+Excepion: 404 Not Found
+xcoption:404
+NotFound
+Acfons Messages Prefight Gauges
+Atiude (m)
+GroundSpeed (m/s)
+Warrybutwodo
+Wuw
+Wrrybuw
+Wybwe
+Warybuwe
+Wearesory,butwedo
+yatthiszoom
+levelforthsregon
+levelforthisregon
+levelforthsregon
+levelforthis
+haveima
+1.01
+0.00
+level forthisregen
+Exception: 404 Not Found
+Exception:404Mrround
+Exceplion: 404 Not Found
+Exception: 404 NotFound
+Excoption:404 NotFound
+Mag Field
+Exceplion: 404 Not Found
+Yaw (deg)
+Wrybuw
+Ww
+Wyw
+86.79
+Wsrrybuwe
+392.20
+haveimageryat thiszoom
+haveimageryatthszoom
+haveimagoryathiszoom
+have imagery atthiszoom
+levelfor thisrogon.
+lovel for this rogon.
+levol forthisrogon
+loevelforthisrogion.
+level forthis rogon.
+levol for this rogon.
+Sat Count
+DistToMAV
+Exception:404 Not Found
+Exception:404 NotFound
+Excoption;404 Not Found
+Excoption:404 Not Found
+Excoption:404NotFound
+Exceplion:404 Not Found
+Non-Gps 
+TOBACCO
+
+[Page 11]
+·RTK GPSJIEO豆
+
+[Page 12]
+PROJECT.2
+EYCAIC OWH
+三号吴阜
+三吴人三
+吉品
+
+[Page 13]
+IC HC-
+Os : Raspberry Pi Os
+三/l：Pymavlink，Uart，RTSP，LTE(I人I)
+-Raspberry Pi + UART FC  
+-YOLOv5 →TFLite  
+三至二2H: Python
+RTSPUSB
+I·QI：-YOLOv5,YOLOv5-TFLite( )
+(PixeC
+- Open cv
+：VNCViewer（人 ）
+Hardware : - CUAV V5+(Flight Controller)
+- Raspberry Pi 4B
+-HM30 
+-USB Camera（äl 号)，RTSP Camera（号
+: Mission Planner
+
+[Page 14]
+3S-4S
+LAIS
+HM30
+h.（：htts://m.blog.naver.com/jinydoggebi/223118767503)
+
+[Page 15]
+-HM30卧三号暑人即
+Onboard System
+·WayPoint  + O
+FC
+HM30
+Raspberry pi
+(Flight Controller)
+UART
+UART
+Air Unit
+→RC
+LTE
+Camera 2
+Camera 1
+Module
+恒居10 百昆只品 -
+LTE
+RTSP
+Ground System
+RTSP印人l（Camera2）
+Target Detection Monitor( 2)
+Real-time Video Stream Viewer(人)
+[IMS]
+PC2
+PC1
+HM30
+(Vnc Viewer)
+Ground unit
+(GCS: Mission planner)
+·Raspberry PiOHYOLO(TFLite)
+30Km video, Telemetry, RC
+
+[Page 16]
+刘&(1,2)
+Problem
+Solution
+USB
+RTSP
+ 2
+YOLOv5→FLite IOIE
+
+[Page 17]
+&(3,4)
+Problem
+Solution
+列 4
+UBECV
+
+[Page 18]
+Result
+Improvement
+GitHub
+2（
+→ 2. setpoint (GPS Data) I 
+4.M30
+
+[Page 19]
+PROJECT.3
+（：WEGO）
+
+[Page 20]
+IC HC-
+JHIJIO
+Os : Ubuntu 20.04
+Middle ware: ROS1 noetic
+豆二:Python
+Hardware:- WEGO LIMO（Jetson Nano I l 菩)
+晨 百品 MNWI-
+- IMU l人1, Realsense Camera, LiDAR
+
+[Page 21]
+WeGo
+01
+(WEGO/LIMO)
+
+[Page 22]
+ROS
+/camera/rgb/image_raw/compressed)
+• LiDAR + IMU
+Detection System
+scan,/imu)
+Vx
+(Line detection)
+Lidar + Imu
+Lidar + Imu
+ar 
+·AR
+Mission3
+Mission4|
+Mission6
+Mission1
+Mission2
+Mission5
+Vcamera/ar_pose_marker)
+Mission System
+·V2X
+(A/B/C
+(/path_)
+Control System
+Velocity
+Steering
+·/Twist 叫人I(linear.)哭(angular.z)OH
+- rostopic name
+
+[Page 23]
+&(1,2)
+Problem
+Solution
+01I01E量 36   5H (Right, Front-
+Right, Front, Front-Left, Left)二至 州是卫, 2,4 可 H
+LiDAR
+
+[Page 24]
+刘&部(3,4)
+Problem
+Solution
+IMU
+pre_degree
+
+[Page 25]
+Result
+Improvement
+1.Mission 
+GitHub
+→AR
+**6 5*
+aoint
+Mission 1：
+- Mission 2: 
+Mission 3:0HⅡ
+-Mission 4:
+Mission :AR  )
+
+[Page 26]
+2024 - 2025P0RTF0L10
+jbm6897772@gmail.com
+01036159054

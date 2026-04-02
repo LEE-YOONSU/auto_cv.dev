@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "primaryColor": "#1a1a2e",
+    "accentColor": "#4f8cf6",
+    "theme": "light",
+    "language": "both",
+    "sectionMode": "experience"
+  },
+  "hero": {
+    "nameKo": "전수익",
+    "nameEn": "Suik Jeon",
+    "eyebrow": "UAV Systems · Autonomous Flight · Embedded Robotics",
+    "titleKo": "드론 소프트웨어 엔지니어",
+    "titleEn": "Drone Software Engineer",
+    "bioKo": "UAV 자율비행 시스템과 지상 제어 소프트웨어를 설계·구현하는 드론 엔지니어입니다. Non-GPS 실내 비행, 실시간 영상 탐지, 자율주행 로봇 시스템 등 다양한 임베디드 로보틱스 프로젝트를 수행했습니다.",
+    "bioEn": "A drone software engineer focused on designing and implementing UAV autonomous flight systems and ground control software. Experienced in Non-GPS indoor flight, real-time video detection, and autonomous driving robot systems across various embedded robotics projects.",
+    "card": {
+      "currentKo": "드론 SW 엔지니어",
+      "currentEn": "Drone SW Engineer",
+      "educationKo": "학사, 2023",
+      "educationEn": "B.S., 2023",
+      "focusKo": "UAV 자율비행, 비전, 임베디드",
+      "focusEn": "UAV Autonomous Flight, Vision, Embedded"
+    }
+  },
+  "about": {
+    "bioKo": "드론 자율비행 시스템 전반에 걸친 실무 경험을 갖춘 엔지니어입니다. UWB 기반 실내 측위, MAVLink 프로토콜, ROS 기반 자율주행 등 하드웨어-소프트웨어 통합 프로젝트를 주도적으로 수행했습니다.",
+    "bioEn": "An engineer with hands-on experience across the full spectrum of drone autonomous flight systems. Led hardware-software integration projects including UWB-based indoor positioning, MAVLink protocol implementation, and ROS-based autonomous driving.",
+    "timeline": [
+      {
+        "type": "education",
+        "period": "2019 - 2023",
+        "organizationKo": "대학교",
+        "organizationEn": "University",
+        "descriptionKo": "학사",
+        "descriptionEn": "Bachelor's Degree"
+      },
+      {
+        "type": "work",
+        "period": "2024.06 - 2025.03",
+        "organizationKo": "다빈치랩스",
+        "organizationEn": "Da Vinci Labs Inc.",
+        "descriptionKo": "드론 소프트웨어 엔지니어 — UAV 시스템 개발, Non-GPS 비행, 영상 탐지 시스템",
+        "descriptionEn": "Drone Software Engineer — UAV system development, Non-GPS flight, video detection systems"
+      }
+    ],
+    "skills": [
+      "Python", "MAVLink", "pymavlink", "ROS", "UWB",
+      "YOLOv5", "TFLite", "OpenCV", "Ubuntu", "Raspberry Pi",
+      "PX4", "Mission Planner", "Wi-Fi Mesh", "UART", "UDP"
+    ],
+    "coreValuesKo": "하드웨어와 소프트웨어의 경계를 넘나들며, 실제 비행 검증까지 완결하는 실전형 엔지니어를 지향합니다.",
+    "coreValuesEn": "I strive to be a hands-on engineer who bridges hardware and software, always validating through real-world flight testing."
+  },
+  "experiences": [
+    {
+      "slug": "uwb-non-gps-indoor-flight",
+      "titleKo": "UWB 기반 Non-GPS 실내 자율비행 시스템",
+      "titleEn": "UWB-Based Non-GPS Indoor Autonomous Flight System",
+      "summaryKo": "GPS 수신이 불가능한 실내 환경에서 UWB 측위와 Fake GPS 전략을 결합하여, Autopilot 내부 수정 없이 다중 기체 자동비행을 구현한 시스템입니다.",
+      "summaryEn": "An indoor autonomous flight system that combines UWB positioning with a Fake GPS strategy, enabling multi-vehicle autonomous flight without modifying the autopilot internals.",
+      "period": "2024.06 - 2025.03",
+      "periodKo": "2024.06 - 2025.03",
+      "roleKo": "Fake GPS 전략 설계 · 다중 기체 제어 구현",
+      "roleEn": "Fake GPS Strategy Design · Multi-Vehicle Control",
+      "tags": ["UWB", "MAVLink", "Fake GPS", "Wi-Fi Mesh", "PX4", "pymavlink"],
+      "details": [
+        "Designed a Fake GPS pipeline converting UWB local coordinates (x, y, z) into MAVLink GPS messages at 100 Hz, enabling standard auto-flight modes indoors.",
+        "Built a multi-layered architecture spanning Sensing (UWB Anchors), Hardware (Pixhawk V5 + Raspberry Pi 5), Communication (5 GHz Wi-Fi Mesh + UDP), and GCS (Web Server + MySQL).",
+        "Extended the system from single-vehicle to six-vehicle simultaneous control using Vehicle ID-based identification over Wi-Fi Mesh networking.",
+        "Resolved 2.4 GHz interference issues by migrating to 5 GHz Mesh, achieving stable MAVLink communication across all vehicles.",
+        "Validated hover, coordinate-tracking, and multi-vehicle scenarios through real indoor flights."
+      ],
+      "detailsKo": [
+        "UWB 로컬 좌표(x, y, z)를 MAVLink GPS 메시지로 100Hz 주기 변환하는 Fake GPS 파이프라인을 설계하여, 실내에서도 기존 자동비행 모드를 그대로 사용할 수 있도록 구현했습니다.",
+        "Sensing(UWB Anchor), Hardware(Pixhawk V5 + Raspberry Pi 5), Communication(5GHz Wi-Fi Mesh + UDP), GCS(Web Server + MySQL) 4계층 아키텍처를 설계했습니다.",
+        "Vehicle ID 기반 식별과 Wi-Fi Mesh 네트워킹으로 단일 기체에서 6대 동시 제어까지 시스템을 확장했습니다.",
+        "2.4GHz 간섭 문제를 5GHz Mesh 전환으로 해결하여 전 기체 안정적 MAVLink 통신을 확보했습니다.",
+        "실내 환경에서 호버링, 좌표 추종, 다중 기체 제어 시나리오를 실비행으로 검증했습니다."
+      ],
+      "awardKo": null,
+      "awardEn": null
+    },
+    {
+      "slug": "yolov5-drone-detection-system",
+      "titleKo": "YOLOv5 기반 드론 영상 탐지 시스템",
+      "titleEn": "YOLOv5-Based Drone Video Detection System",
+      "summaryKo": "Raspberry Pi와 YOLOv5-TFLite를 결합하여 30km 원격 영상 전송과 실시간 객체 탐지를 수행하는 드론 탑재 감시 시스템을 구축했습니다.",
+      "summaryEn": "Built an onboard drone surveillance system combining Raspberry Pi with YOLOv5-TFLite for real-time object detection over 30 km video transmission range.",
+      "period": "2024",
+      "periodKo": "2024",
+      "roleKo": "온보드 탐지 시스템 개발",
+      "roleEn": "Onboard Detection System Development",
+      "tags": ["YOLOv5", "TFLite", "RTSP", "Raspberry Pi", "HM30", "OpenCV"],
+      "details": [
+        "Developed an onboard detection pipeline using YOLOv5 converted to TFLite for lightweight inference on Raspberry Pi 4B.",
+        "Designed dual-camera architecture with USB camera for onboard detection and RTSP camera for ground station streaming.",
+        "Integrated HM30 communication module enabling 30 km range for video, telemetry, and RC control.",
+        "Built a ground system with real-time video stream viewer and target detection monitor accessible via VNC Viewer.",
+        "Implemented Raspberry Pi-to-Flight Controller UART communication for waypoint-based autonomous mission execution."
+      ],
+      "detailsKo": [
+        "YOLOv5를 TFLite로 변환하여 Raspberry Pi 4B에서 경량 추론이 가능한 온보드 탐지 파이프라인을 개발했습니다.",
+        "USB 카메라(온보드 탐지용)와 RTSP 카메라(지상국 스트리밍용)를 분리한 듀얼 카메라 구조를 설계했습니다.",
+        "HM30 통신 모듈을 연동하여 30km 범위의 영상, 텔레메트리, RC 제어를 구현했습니다.",
+        "VNC Viewer로 접근 가능한 실시간 영상 뷰어와 타겟 탐지 모니터를 갖춘 지상 시스템을 구축했습니다.",
+        "Raspberry Pi-FC UART 통신으로 WayPoint 기반 자율 미션 수행 구조를 구현했습니다."
+      ],
+      "awardKo": null,
+      "awardEn": null
+    }
+  ],
+  "projects": [
+    {
+      "slug": "wego-limo-autonomous-driving",
+      "titleKo": "WEGO LIMO 자율주행 로봇",
+      "titleEn": "WEGO LIMO Autonomous Driving Robot",
+      "descriptionKo": "ROS1과 Jetson Nano 기반 WEGO LIMO 플랫폼에서 LiDAR, IMU, Realsense 카메라를 융합하여 6개 미션을 수행하는 자율주행 시스템을 구축했습니다.",
+      "descriptionEn": "Built an autonomous driving system on the WEGO LIMO platform with Jetson Nano, fusing LiDAR, IMU, and Realsense camera data to complete six distinct missions.",
+      "tech": ["ROS1", "Python", "Jetson Nano", "LiDAR", "IMU", "Realsense", "OpenCV", "AR Tag"],
+      "period": "2023",
+      "roleKo": "자율주행 시스템 개발",
+      "roleEn": "Autonomous Driving System Development",
+      "details": [
+        "Designed a modular ROS1-based architecture with Detection, Mission, and Control systems communicating via ROS topics.",
+        "Implemented line detection using camera input and LiDAR-based obstacle avoidance with 5-sector division (Right, Front-Right, Front, Front-Left, Left).",
+        "Integrated IMU data for heading estimation with pre_degree compensation for sensor drift correction.",
+        "Built an AR tag detection pipeline using camera/ar_pose_marker for mission waypoint identification.",
+        "Implemented V2X communication for inter-vehicle coordination across mission checkpoints.",
+        "Completed all six missions including lane following, obstacle avoidance, AR tag navigation, and intersection handling."
+      ],
+      "detailsKo": [
+        "Detection, Mission, Control 시스템이 ROS topic으로 통신하는 모듈형 ROS1 기반 아키텍처를 설계했습니다.",
+        "카메라 기반 라인 검출과 LiDAR 5구역 분할(Right, Front-Right, Front, Front-Left, Left) 장애물 회피를 구현했습니다.",
+        "IMU 데이터와 pre_degree 보정을 결합하여 센서 드리프트에 대응하는 방위 추정을 구현했습니다.",
+        "camera/ar_pose_marker 기반 AR 태그 인식 파이프라인으로 미션 웨이포인트를 식별했습니다.",
+        "V2X 통신으로 미션 체크포인트 간 차량 간 협조 구조를 구축했습니다.",
+        "차선 추종, 장애물 회피, AR 태그 내비게이션, 교차로 처리를 포함한 6개 미션을 전부 완수했습니다."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "date": "2023",
+      "titleKo": "SQLD 자격증 취득",
+      "titleEn": "SQLD Certification",
+      "locationKo": "한국데이터산업진흥원",
+      "locationEn": "Korea Data Agency",
+      "detailKo": "SQL 개발자",
+      "detailEn": "SQL Developer"
+    },
+    {
+      "date": "2023",
+      "titleKo": "ADsP 자격증 취득",
+      "titleEn": "ADsP Certification",
+      "locationKo": "한국데이터산업진흥원",
+      "locationEn": "Korea Data Agency",
+      "detailKo": "데이터분석 준전문가",
+      "detailEn": "Advanced Data Analytics Semi-Professional"
+    }
+  ],
+  "contact": {
+    "messageKo": "채용 관련 문의, 프로젝트 협업, 기술 토론을 환영합니다.",
+    "messageEn": "Feel free to reach out for career opportunities, project collaboration, or technical discussions.",
+    "links": [
+      { "type": "email", "label": "Email", "href": "mailto:jbm689772@gmail.com" }
+    ]
+  }
+}
